@@ -1,6 +1,6 @@
 # coloringgraphs
-coloração de grafos feito com o algoritmo de subida de encosta com reinicio aleatório
-Trabalho da disciplina Sistemas Inteligentes, feito juntamente com a aluna LUMA SLLARY FERNANDES OLIVEIRA
+* coloração de grafos feito com o algoritmo de subida de encosta com reinicio aleatório
+* Trabalho da disciplina Sistemas Inteligentes, feito juntamente com a aluna LUMA SLLARY FERNANDES OLIVEIRA
 
 # COLORAÇÃO DE GRAFOS:
 * É conhecido como um caso especial da rotulagem de grafos, uma atribuição de cores a elementos de um grafo, sujeita a certas restrições.
